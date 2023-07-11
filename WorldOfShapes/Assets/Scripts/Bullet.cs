@@ -7,11 +7,15 @@ public class Bullet : MonoBehaviour
 {
     public Rigidbody2D rb;
     float speed = 20f;
-    
+   
+
+
     void Start()
     {
-        rb.velocity = new Vector2(speed, rb.velocity.y);  
+        rb.velocity = transform.right * speed;
     }
+
+    
 
     private void OnCollisionEnter2D(Collision2D collision2D)
     {

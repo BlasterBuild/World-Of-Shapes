@@ -7,6 +7,7 @@ public class Gun : MonoBehaviour
 
     public Transform FirePoint;
     public GameObject BulletPrefab;
+    
 
     void Update()
     {
