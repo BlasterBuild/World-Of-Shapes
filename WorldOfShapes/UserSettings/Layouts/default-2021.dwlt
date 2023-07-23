@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1280
     height: 941
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 18
+  controlID: 17
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 23
+  controlID: 92
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +196,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 24
+  controlID: 93
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -349,18 +349,18 @@ MonoBehaviour:
       y: 21
       width: 750
       height: 576
-    m_Scale: {x: 1.5085084, y: 1.5085083}
-    m_Translation: {x: 335.33624, y: 317.02435}
+    m_Scale: {x: 2.389205, y: 2.389205}
+    m_Translation: {x: 312.1797, y: 333.96933}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -222.29657
-      y: -210.15752
-      width: 497.17984
-      height: 381.83417
+      x: -130.66258
+      y: -139.78262
+      width: 313.91196
+      height: 241.08438
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 750, y: 597}
@@ -400,9 +400,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 02600000
-      m_LastClickedID: 24578
-      m_ExpandedIDs: e2faffff02600000
+      m_SelectedIDs: 96e2ffff
+      m_LastClickedID: -7530
+      m_ExpandedIDs: 96e2ffff34e3fffface6ffff4ee7ffffa4e7ffffe2faffff02600000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -546,7 +546,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 1
+      displayed: 0
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -706,9 +706,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.194582, y: 1.2062136, z: 0.013538992}
+    m_Target: {x: -3.2933705, y: -0.40807194, z: 0.02071924}
     speed: 2
-    m_Value: {x: -4.058738, y: 1.2301297, z: 0.008076599}
+    m_Value: {x: -3.289928, y: -0.5853626, z: 0.0174431}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -759,9 +759,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 11.592554
+    m_Target: 6.952712
     speed: 2
-    m_Value: 12.1388
+    m_Value: 7.280327
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -827,22 +827,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\91639\Desktop\projects\unity_projects\World-Of-Shapes\WorldOfShapes
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 06610000
-    m_LastClickedID: 24838
-    m_ExpandedIDs: 00000000f2600000
+    m_SelectedIDs: fc600000
+    m_LastClickedID: 24828
+    m_ExpandedIDs: 00000000f0600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -870,7 +870,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f2600000
+    m_ExpandedIDs: 00000000f0600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
